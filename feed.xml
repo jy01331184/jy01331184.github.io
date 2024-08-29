@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>jy01331184&#x27;s blog</title>
+    <link href="https://jy01331184.github.io/feed.xml" rel="self" />
+    <link href="https://jy01331184.github.io" />
+    <updated>2024-08-29T14:45:15+08:00</updated>
+    <author>
+        <name>jy01331184</name>
+    </author>
+    <id>https://jy01331184.github.io</id>
+
+    <entry>
+        <title>Init</title>
+        <author>
+            <name>jy01331184</name>
+        </author>
+        <link href="https://jy01331184.github.io/init.html"/>
+        <id>https://jy01331184.github.io/init.html</id>
+
+        <updated>2024-08-29T14:45:15+08:00</updated>
+            <summary>
+                <![CDATA[
+                    hello world
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hello world</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "jy01331184&#x27;s blog",
+    "description": "",
+    "home_page_url": "https://jy01331184.github.io",
+    "feed_url": "https://jy01331184.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "jy01331184"
+    },
+    "items": [
+        {
+            "id": "https://jy01331184.github.io/init.html",
+            "url": "https://jy01331184.github.io/init.html",
+            "title": "Init",
+            "summary": "hello world",
+            "content_html": "<p>hello world</p>",
+            "author": {
+                "name": "jy01331184"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-29T14:45:15+08:00",
+            "date_modified": "2024-08-29T14:45:15+08:00"
+        }
+    ]
+}
